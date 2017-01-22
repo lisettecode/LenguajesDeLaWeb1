@@ -5,6 +5,11 @@ h1{
    font-size: 20px; 
 }
 
+h2 {
+   color: black;
+   font-size: 16px;
+}
+
 img {
     border: blue 1px solid;
 }
